@@ -1,0 +1,12 @@
+{
+  "/Users/sahl/Downloads/Lumen/Lumen/App/AppDelegate.swift" : {
+    "abi-baseline-json" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/x86_64/Lumen.abi.json",
+    "const-values" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/x86_64/Lumen-primary.swiftconstvalues",
+    "dependencies" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/x86_64/Lumen-primary.d",
+    "diagnostics" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/x86_64/Lumen-primary.dia",
+    "objc-header" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/x86_64/Lumen-Swift.h",
+    "swiftdoc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/x86_64/Lumen.swiftdoc",
+    "swiftmodule" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/x86_64/Lumen.swiftmodule",
+    "swiftsourceinfo" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/x86_64/Lumen.swiftsourceinfo"
+  }
+}

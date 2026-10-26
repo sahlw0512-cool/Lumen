@@ -1,0 +1,306 @@
+{
+  "" : {
+    "const-values" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Lumen-primary.swiftconstvalues",
+    "dependencies" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Lumen-primary.d",
+    "diagnostics" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Lumen-primary.dia",
+    "emit-module-dependencies" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Lumen-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Lumen-primary-emit-module.dia",
+    "pch" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Lumen-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Lumen-primary.swiftdeps"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/App/AppDelegate.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/App/AppModel.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/AppModel.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/AppModel.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/AppModel.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/App/LumenApp.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/LumenApp.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/LumenApp.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/LumenApp.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/App/LumenIntents.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/LumenIntents.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/LumenIntents.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/LumenIntents.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/App/RotationController.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/RotationController.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/RotationController.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/RotationController.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Engine/DesktopWallpaperWindow.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/DesktopWallpaperWindow.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/DesktopWallpaperWindow.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/DesktopWallpaperWindow.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Engine/EffectsCoordinator.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/EffectsCoordinator.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/EffectsCoordinator.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/EffectsCoordinator.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Engine/LoopingVideoPlayer.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/LoopingVideoPlayer.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/LoopingVideoPlayer.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/LoopingVideoPlayer.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Engine/PlaybackPolicy.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PlaybackPolicy.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PlaybackPolicy.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PlaybackPolicy.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Engine/SoundtrackPlayer.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/SoundtrackPlayer.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/SoundtrackPlayer.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/SoundtrackPlayer.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Engine/VideoSurfaceView.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/VideoSurfaceView.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/VideoSurfaceView.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/VideoSurfaceView.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Engine/WallpaperEngine.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/WallpaperEngine.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/WallpaperEngine.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/WallpaperEngine.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Engine/WallpaperRenderer.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/WallpaperRenderer.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/WallpaperRenderer.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/WallpaperRenderer.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Models/AppSettings.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/AppSettings.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/AppSettings.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/AppSettings.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Models/DisplayInfo.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/DisplayInfo.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/DisplayInfo.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/DisplayInfo.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Models/Playlist.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Playlist.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Playlist.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Playlist.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Models/VideoMetadata.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/VideoMetadata.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/VideoMetadata.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/VideoMetadata.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Models/Wallpaper.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Wallpaper.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Wallpaper.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Wallpaper.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Models/WallpaperEffects.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/WallpaperEffects.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/WallpaperEffects.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/WallpaperEffects.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Monitors/AudioLevelMonitor.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/AudioLevelMonitor.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/AudioLevelMonitor.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/AudioLevelMonitor.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Monitors/DisplayManager.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/DisplayManager.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/DisplayManager.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/DisplayManager.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Monitors/FullscreenDetector.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/FullscreenDetector.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/FullscreenDetector.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/FullscreenDetector.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Monitors/IdleMonitor.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/IdleMonitor.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/IdleMonitor.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/IdleMonitor.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Monitors/PowerMonitor.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PowerMonitor.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PowerMonitor.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PowerMonitor.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Monitors/ResourceMonitor.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/ResourceMonitor.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/ResourceMonitor.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/ResourceMonitor.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Monitors/SystemStateMonitor.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/SystemStateMonitor.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/SystemStateMonitor.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/SystemStateMonitor.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Services/CloudSync.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/CloudSync.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/CloudSync.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/CloudSync.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Services/FileAccess.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/FileAccess.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/FileAccess.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/FileAccess.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Services/GlobalHotkeys.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/GlobalHotkeys.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/GlobalHotkeys.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/GlobalHotkeys.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Services/ImportService.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/ImportService.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/ImportService.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/ImportService.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Services/LaunchAtLoginService.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/LaunchAtLoginService.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/LaunchAtLoginService.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/LaunchAtLoginService.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Services/LoopComposer.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/LoopComposer.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/LoopComposer.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/LoopComposer.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Services/MediaGenerator.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/MediaGenerator.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/MediaGenerator.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/MediaGenerator.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Services/MediaProbe.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/MediaProbe.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/MediaProbe.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/MediaProbe.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Services/PersistenceService.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PersistenceService.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PersistenceService.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PersistenceService.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Services/StaticWallpaperSync.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/StaticWallpaperSync.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/StaticWallpaperSync.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/StaticWallpaperSync.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Services/ThumbnailService.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/ThumbnailService.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/ThumbnailService.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/ThumbnailService.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Services/UpdateChecker.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/UpdateChecker.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/UpdateChecker.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/UpdateChecker.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/UI/Components/Components.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Components.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Components.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Components.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/UI/Diagnostics/DiagnosticsView.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/DiagnosticsView.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/DiagnosticsView.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/DiagnosticsView.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/UI/Displays/DisplaysView.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/DisplaysView.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/DisplaysView.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/DisplaysView.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/UI/Library/LibraryView.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/LibraryView.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/LibraryView.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/LibraryView.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/UI/Library/OnboardingView.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/OnboardingView.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/OnboardingView.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/OnboardingView.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/UI/Library/PlaylistsView.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PlaylistsView.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PlaylistsView.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PlaylistsView.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/UI/Library/SlideshowCreatorView.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/SlideshowCreatorView.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/SlideshowCreatorView.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/SlideshowCreatorView.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/UI/Library/WallpaperCard.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/WallpaperCard.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/WallpaperCard.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/WallpaperCard.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/UI/MenuBar/MenuBarContent.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/MenuBarContent.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/MenuBarContent.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/MenuBarContent.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/UI/Preview/PreviewPlayerModel.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PreviewPlayerModel.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PreviewPlayerModel.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PreviewPlayerModel.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/UI/Preview/PreviewView.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PreviewView.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PreviewView.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PreviewView.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/UI/Preview/SoundtrackPanel.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/SoundtrackPanel.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/SoundtrackPanel.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/SoundtrackPanel.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/UI/Preview/WallpaperToolsPanel.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/WallpaperToolsPanel.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/WallpaperToolsPanel.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/WallpaperToolsPanel.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/UI/RootView.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/RootView.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/RootView.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/RootView.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/UI/Settings/EffectsView.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/EffectsView.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/EffectsView.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/EffectsView.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/UI/Settings/PerformanceView.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PerformanceView.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PerformanceView.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/PerformanceView.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/UI/Settings/SettingsView.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/SettingsView.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Utilities/AppError.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/AppError.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/AppError.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/AppError.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Utilities/Diagnostics.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Diagnostics.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Diagnostics.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Diagnostics.o"
+  },
+  "/Users/sahl/Downloads/Lumen/Lumen/Utilities/Formatting.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Formatting.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Formatting.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/Formatting.o"
+  },
+  "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/Lumen.build/Release/Lumen.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/sahl/Downloads/Lumen/build/DerivedData/Build/Intermediates.noindex/Lumen.build/Release/Lumen.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}

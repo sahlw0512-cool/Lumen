@@ -1,0 +1,119 @@
+{
+  "source" : "\/Users\/sahl\/Downloads\/Lumen\/Lumen\/App\/LumenIntents.swift",
+  "tables" : {
+    "AppShortcuts" : [
+      {
+        "appShortcutMetadata" : [
+          {
+            "actionIdentifier" : "NextWallpaperIntent",
+            "index" : 0,
+            "parameterDisplayRepresentations" : {
+
+            },
+            "parameterTypes" : {
+
+            },
+            "title" : "Next Wallpaper"
+          }
+        ],
+        "key" : "Next wallpaper in ${applicationName}",
+        "location" : {
+          "startingColumn" : 0,
+          "startingLine" : 230
+        },
+        "values" : [
+          "Next wallpaper in ${applicationName}"
+        ]
+      },
+      {
+        "appShortcutMetadata" : [
+          {
+            "actionIdentifier" : "TogglePauseIntent",
+            "index" : 1,
+            "parameterDisplayRepresentations" : {
+
+            },
+            "parameterTypes" : {
+
+            },
+            "title" : "Toggle Wallpaper Playback"
+          }
+        ],
+        "key" : "Pause ${applicationName}",
+        "location" : {
+          "startingColumn" : 0,
+          "startingLine" : 230
+        },
+        "values" : [
+          "Pause ${applicationName}",
+          "Toggle ${applicationName} wallpaper"
+        ]
+      },
+      {
+        "appShortcutMetadata" : [
+          {
+            "actionIdentifier" : "SetWallpaperIntent",
+            "index" : 2,
+            "parameterDisplayRepresentations" : {
+              "WallpaperEntity" : [
+                "Wallpaper"
+              ]
+            },
+            "parameterTypes" : {
+              "wallpaper" : "WallpaperEntity"
+            },
+            "title" : "Set Wallpaper"
+          }
+        ],
+        "key" : "Set ${applicationName} wallpaper",
+        "location" : {
+          "startingColumn" : 0,
+          "startingLine" : 230
+        },
+        "values" : [
+          "Set ${applicationName} wallpaper"
+        ]
+      },
+      {
+        "appShortcutMetadata" : [
+          {
+            "actionIdentifier" : "StartPlaylistIntent",
+            "index" : 3,
+            "parameterDisplayRepresentations" : {
+              "PlaylistEntity" : [
+                "Playlist"
+              ]
+            },
+            "parameterTypes" : {
+              "playlist" : "PlaylistEntity"
+            },
+            "title" : "Play Playlist"
+          }
+        ],
+        "key" : "Play a ${applicationName} playlist",
+        "location" : {
+          "startingColumn" : 0,
+          "startingLine" : 230
+        },
+        "values" : [
+          "Play a ${applicationName} playlist"
+        ]
+      }
+    ],
+    "Localizable" : [
+      {
+        "key" : "Apply ${preset} effects"
+      },
+      {
+        "key" : "Play ${playlist}"
+      },
+      {
+        "key" : "Set wallpaper paused to ${paused}"
+      },
+      {
+        "key" : "Set wallpaper to ${wallpaper}"
+      }
+    ]
+  },
+  "version" : 2
+}

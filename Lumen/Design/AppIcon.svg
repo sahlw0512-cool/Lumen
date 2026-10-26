@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <!-- Background: deep night gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#1B1F4B"/>
+      <stop offset="0.55" stop-color="#0E1030"/>
+      <stop offset="1" stop-color="#07081A"/>
+    </linearGradient>
+    <radialGradient id="bgGlow" cx="0.5" cy="0.62" r="0.6">
+      <stop offset="0" stop-color="#6B5BFF" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#6B5BFF" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Screen -->
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B0D2A"/>
+      <stop offset="1" stop-color="#141647"/>
+    </linearGradient>
+    <linearGradient id="bezel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.12"/>
+    </linearGradient>
+    <!-- Aurora ribbons -->
+    <linearGradient id="wave1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3EF0D0"/>
+      <stop offset="0.5" stop-color="#58A8FF"/>
+      <stop offset="1" stop-color="#8E6BFF"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7B61FF"/>
+      <stop offset="0.55" stop-color="#C45CFF"/>
+      <stop offset="1" stop-color="#FF6FB5"/>
+    </linearGradient>
+    <linearGradient id="wave3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF8A6B"/>
+      <stop offset="0.5" stop-color="#FFC56B"/>
+      <stop offset="1" stop-color="#FFE7A3"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.35" stop-color="#FFF3D1"/>
+      <stop offset="1" stop-color="#FFC56B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFE2B0" stop-opacity="0.55"/>
+      <stop offset="0.45" stop-color="#FF9FD0" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#8E6BFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000" flood-opacity="0.45"/>
+    </filter>
+    <clipPath id="bodyClip"><rect x="100" y="100" width="824" height="824" rx="186"/></clipPath>
+    <clipPath id="screenClip"><rect x="214" y="262" width="596" height="420" rx="46"/></clipPath>
+  </defs>
+
+  <!-- App body (macOS icon grid: 824pt squircle, 100pt margin) -->
+  <g filter="url(#shadow)">
+    <rect x="100" y="100" width="824" height="824" rx="186" fill="url(#bg)"/>
+  </g>
+  <g clip-path="url(#bodyClip)">
+    <rect x="100" y="100" width="824" height="824" fill="url(#bgGlow)"/>
+    <!-- faint stars -->
+    <g fill="#FFFFFF">
+      <circle cx="210" cy="190" r="3" opacity="0.55"/>
+      <circle cx="330" cy="160" r="2" opacity="0.4"/>
+      <circle cx="820" cy="210" r="3" opacity="0.5"/>
+      <circle cx="700" cy="160" r="2" opacity="0.35"/>
+      <circle cx="860" cy="330" r="2" opacity="0.35"/>
+      <circle cx="160" cy="360" r="2" opacity="0.3"/>
+    </g>
+    <!-- top sheen -->
+    <rect x="100" y="100" width="824" height="420" fill="url(#sheen)"/>
+  </g>
+
+  <!-- Display -->
+  <g filter="url(#shadow)">
+    <rect x="200" y="248" width="624" height="448" rx="58" fill="#05061A"/>
+  </g>
+  <rect x="200" y="248" width="624" height="448" rx="58" fill="none" stroke="url(#bezel)" stroke-width="3"/>
+  <rect x="214" y="262" width="596" height="420" rx="46" fill="url(#screen)"/>
+
+  <g clip-path="url(#screenClip)">
+    <!-- sun glow behind aurora -->
+    <circle cx="640" cy="410" r="190" fill="url(#halo)"/>
+    <circle cx="640" cy="420" r="62" fill="url(#sun)"/>
+
+    <!-- aurora ribbons: blurred halo + crisp ribbon -->
+    <path d="M180 520 C 300 420, 420 610, 560 500 S 760 380, 860 450 L 860 560 C 760 500, 650 620, 540 600 S 320 560, 180 640 Z"
+          fill="url(#wave1)" opacity="0.55" filter="url(#soft)"/>
+    <path d="M180 520 C 300 420, 420 610, 560 500 S 760 380, 860 450 L 860 520 C 760 470, 650 590, 540 570 S 320 520, 180 600 Z"
+          fill="url(#wave1)" opacity="0.95"/>
+
+    <path d="M180 590 C 320 520, 430 660, 590 580 S 780 500, 860 540 L 860 700 L 180 700 Z"
+          fill="url(#wave2)" opacity="0.92"/>
+
+    <path d="M180 660 C 330 610, 470 720, 620 660 S 800 620, 860 640 L 860 700 L 180 700 Z"
+          fill="url(#wave3)" opacity="0.9"/>
+
+    <!-- glass reflection -->
+    <path d="M214 262 L 520 262 L 360 682 L 214 682 Z" fill="#FFFFFF" opacity="0.045"/>
+  </g>
+
+  <!-- Stand -->
+  <path d="M452 696 L 572 696 L 590 776 L 434 776 Z" fill="#C9CCE8" opacity="0.85"/>
+  <rect x="390" y="772" width="244" height="22" rx="11" fill="#E6E8FA" opacity="0.92"/>
+  <!-- subtle highlight on stand base -->
+  <rect x="404" y="774" width="216" height="6" rx="3" fill="#FFFFFF" opacity="0.6"/>
+</svg>
